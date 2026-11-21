@@ -1,0 +1,21 @@
+Algorithm,Trial,Seed,Route,Distance,Execution_time_seconds,Feasible,Optimality_gap,Optimal
+Simulated Annealing,1,1001,1 -> 2 -> 4 -> 5 -> 3 -> 1,125,0.0214122,True,0,True
+Simulated Annealing,2,1002,1 -> 3 -> 5 -> 4 -> 2 -> 1,125,0.0189268,True,0,True
+Simulated Annealing,3,1003,1 -> 2 -> 4 -> 5 -> 3 -> 1,125,0.0189247,True,0,True
+Simulated Annealing,4,1004,1 -> 2 -> 4 -> 5 -> 3 -> 1,125,0.0165849,True,0,True
+Simulated Annealing,5,1005,1 -> 2 -> 4 -> 5 -> 3 -> 1,125,0.0185911,True,0,True
+Simulated Annealing,6,1006,1 -> 2 -> 4 -> 5 -> 3 -> 1,125,0.0166506,True,0,True
+Simulated Annealing,7,1007,1 -> 3 -> 5 -> 4 -> 2 -> 1,125,0.0197448,True,0,True
+Simulated Annealing,8,1008,1 -> 2 -> 4 -> 5 -> 3 -> 1,125,0.0197994,True,0,True
+Simulated Annealing,9,1009,1 -> 3 -> 5 -> 4 -> 2 -> 1,125,0.0172003,True,0,True
+Simulated Annealing,10,1010,1 -> 3 -> 5 -> 4 -> 2 -> 1,125,0.0179855,True,0,True
+Genetic Algorithm,1,1001,1 -> 3 -> 5 -> 4 -> 2 -> 1,125,0.0069834,True,0,True
+Genetic Algorithm,2,1002,1 -> 3 -> 5 -> 4 -> 2 -> 1,125,0.0058886,True,0,True
+Genetic Algorithm,3,1003,1 -> 3 -> 5 -> 4 -> 2 -> 1,125,0.0069791,True,0,True
+Genetic Algorithm,4,1004,1 -> 2 -> 4 -> 5 -> 3 -> 1,125,0.0065095,True,0,True
+Genetic Algorithm,5,1005,1 -> 3 -> 5 -> 4 -> 2 -> 1,125,0.0076051,True,0,True
+Genetic Algorithm,6,1006,1 -> 3 -> 5 -> 4 -> 2 -> 1,125,0.0072225,True,0,True
+Genetic Algorithm,7,1007,1 -> 3 -> 5 -> 4 -> 2 -> 1,125,0.0074759,True,0,True
+Genetic Algorithm,8,1008,1 -> 2 -> 4 -> 5 -> 3 -> 1,125,0.0070579,True,0,True
+Genetic Algorithm,9,1009,1 -> 3 -> 5 -> 4 -> 2 -> 1,125,0.0072344,True,0,True
+Genetic Algorithm,10,1010,1 -> 2 -> 4 -> 5 -> 3 -> 1,125,0.0072604,True,0,True

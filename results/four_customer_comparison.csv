@@ -1,0 +1,4 @@
+Algorithm,Route,Distance,Execution_time_seconds,Feasible,Gap_from_exact_optimum
+Exact enumeration,1 -> 2 -> 4 -> 5 -> 3 -> 1,125,0.0006294,True,0
+Simulated Annealing,1 -> 3 -> 5 -> 4 -> 2 -> 1,125,0.025549,True,0
+Genetic Algorithm,1 -> 2 -> 4 -> 5 -> 3 -> 1,125,0.0070394,True,0

@@ -1,0 +1,2 @@
+Trial,Route,Route_distance,QUBO_objective,Execution_time_seconds,Valid_route,Optimal_found
+1,1 -> 5 -> 3 -> 4 -> 2 -> 1,126,126.0,264.855413,True,False
